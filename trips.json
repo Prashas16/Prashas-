@@ -1,0 +1,18 @@
+[
+  {
+    "destination": "Lake Bled, Slovenia",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-22",
+    "status": "idea",
+    "people": ["You", "Anna"],
+    "note": "Someone check flight prices from Budapest"
+  },
+  {
+    "destination": "Vienna Christmas Markets",
+    "startDate": "2026-12-05",
+    "endDate": "2026-12-07",
+    "status": "planned",
+    "people": ["You", "Marco", "Sofia"],
+    "note": "Train tickets booked, need hostel"
+  }
+]
